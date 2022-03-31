@@ -7,15 +7,15 @@ ESP8266WiFiMulti wifiMulti;
 
 
 // WiFi AP SSID
-#define WIFI_SSID "Wind3 HUB-C5E4D5 RB"
+#define WIFI_SSID "***********"
 // WiFi password
-#define WIFI_PASSWORD "0409236028"
+#define WIFI_PASSWORD "**************"
 // InfluxDB v2 server url, e.g. https://eu-central-1-1.aws.cloud2.influxdata.com (Use: InfluxDB UI -> Load Data -> Client Libraries)
 #define INFLUXDB_URL "https://europe-west1-1.gcp.cloud2.influxdata.com"
 // InfluxDB v2 server or cloud API token (Use: InfluxDB UI -> Data -> API Tokens -> Generate API Token)
-#define INFLUXDB_TOKEN "DeXMhKbRROoGQRJ2QFKQJyTbhP7-won1uaBoUsLYlBmHOwSmkZPwP86ENoZ2IgsRwS1vyo52XSMKc7qI6h5MLw=="
+#define INFLUXDB_TOKEN "******************************"
 // InfluxDB v2 organization id (Use: InfluxDB UI -> User -> About -> Common Ids )
-#define INFLUXDB_ORG "bibalosimone@gmail.com"
+#define INFLUXDB_ORG "***********"
 // InfluxDB v2 bucket name (Use: InfluxDB UI ->  Data -> Buckets)
 #define INFLUXDB_BUCKET "bibalosimone's Bucket"
 
