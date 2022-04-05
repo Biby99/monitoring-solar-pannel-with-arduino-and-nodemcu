@@ -1,4 +1,4 @@
-# Monitoraggio-pannelli-solari-tramite-arduino
+# Monitoraggio pannelli solari tramite Arduino
 
 ## Bibalo Simone (mat. 143184)
 
