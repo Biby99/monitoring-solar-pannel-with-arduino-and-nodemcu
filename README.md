@@ -1,5 +1,7 @@
 # Monitoraggio-pannelli-solari-tramite-arduino
 
+## Bibalo Simone
+
 ## Grafana
 
 https://bibalo.grafana.net/d/4Vmmkhynz/solare-dashboard
