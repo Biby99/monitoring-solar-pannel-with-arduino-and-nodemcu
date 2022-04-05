@@ -1,6 +1,6 @@
 # Monitoraggio-pannelli-solari-tramite-arduino
 
-## Bibalo Simone
+## Bibalo Simone (mat. 143184)
 
 ## Grafana
 
