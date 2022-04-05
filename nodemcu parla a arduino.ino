@@ -36,9 +36,9 @@ Point sensor("Solar");
 //converte  bytes entranti in int
 void bytesToInt(byte b0, byte b1);  
 //variabili
-int a;
-bool b;
-bool c;
+int a; //usato nella funzione per operazione bit a bit
+bool b;//booleano per scegliere se chiedere corrente o tensione in modo da avere tutto sincronizzato
+bool c;//booleano TRUE per comunicazione con arduino, FALSE per comunicazione con INFLUXDB
 byte coming[2];              //accumula bytes entranti
 float volt,curr,watts;
 void setup() {
