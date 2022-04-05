@@ -7,7 +7,7 @@ Adafruit_INA219 ina219;
 void intToBytes(int x);          //converte da int a bytes prima di mandare
 
 byte sending[2];                   //accumula bytes che devono essere mandati
-int b=true;
+int b=true;                      //booleano per capire se mandare tensione o corrente
 
 // microSD 
 #define CHIPSELECT 10
