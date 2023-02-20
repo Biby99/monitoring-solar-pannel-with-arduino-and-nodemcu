@@ -1,4 +1,4 @@
-# Monitoraggio pannelli solari tramite Arduino
+# Monitoring solar pannel with Arduino and NODEMCU
 
 ## Bibalo Simone (mat. 143184)
 
